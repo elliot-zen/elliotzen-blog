@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jun 2025 09:38:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎪 WIP</title>
+      <link>http://localhost:1313/posts/wip/</link>
+      <pubDate>Sun, 29 Jun 2025 09:38:47 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wip/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 🎪 A2A&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 知识图谱&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; RAG&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Eino&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/cloudwego/eino&#34;&gt;https://github.com/cloudwego/eino&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.cloudwego.io/docs/eino/&#34;&gt;https://www.cloudwego.io/docs/eino/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Kg</title>
+      <link>http://localhost:1313/posts/kg/</link>
+      <pubDate>Sun, 29 Jun 2025 09:38:43 +0800</pubDate>
+      <guid>http://localhost:1313/posts/kg/</guid>
+      <description>&lt;p&gt;Demo&lt;/p&gt;&#xA;&lt;h1 id=&#34;知识图谱&#34;&gt;知识图谱&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;表示&lt;/li&gt;&#xA;&lt;li&gt;存储&lt;/li&gt;&#xA;&lt;li&gt;抽取&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;图数据库&#34;&gt;图数据库&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;高性能的关系查询&lt;/li&gt;&#xA;&lt;li&gt;模型的灵活性&lt;/li&gt;&#xA;&lt;li&gt;快速和复杂的分析规则&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;neo4j&#34;&gt;Neo4j&lt;/h2&gt;&#xA;&lt;h3 id=&#34;存储实现&#34;&gt;存储实现&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;节点存储文件&lt;/li&gt;&#xA;&lt;li&gt;关系存储文件&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rdf&#34;&gt;RDF&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;resource definition framework&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Vmess</title>
+      <link>http://localhost:1313/posts/network/vmess/</link>
+      <pubDate>Sun, 29 Jun 2025 09:37:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/network/vmess/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;通过 &lt;code&gt;init&lt;/code&gt; 机制注册以配置为键的创建函数&#xA;&lt;ul&gt;&#xA;&lt;li&gt;type.go &lt;code&gt;RegisterConfig&lt;/code&gt;,  注册 &lt;code&gt;CreateObject&lt;/code&gt;创建;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Dispatcher 负责从 inbound 接收数据发送到  outbound&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;创建配置类 &lt;code&gt;Config&lt;/code&gt;时会预置Feature&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;v2ray.go&lt;/code&gt;-&amp;gt; &lt;code&gt;Build()&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;wip: config.go -&amp;gt; RegisterConfigLoader&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 29 Jun 2025 09:33:49 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
