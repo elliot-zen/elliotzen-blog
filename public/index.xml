@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elliot&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Elliot&#39;s Blog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/posts/ai/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</guid>
+      <description>&lt;p&gt;神经网络学习&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎪 WIP</title>
+      <link>http://localhost:1313/posts/wip/</link>
+      <pubDate>Sun, 29 Jun 2025 09:38:47 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wip/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 🎪 A2A&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 知识图谱&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; RAG&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Eino
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cloudwego/eino&#34;&gt;https://github.com/cloudwego/eino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudwego.io/docs/eino/&#34;&gt;https://www.cloudwego.io/docs/eino/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Vmess</title>
+      <link>http://localhost:1313/posts/vmess/vmess/</link>
+      <pubDate>Sun, 29 Jun 2025 09:37:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vmess/vmess/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过 &lt;code&gt;init&lt;/code&gt; 机制注册以配置为键的创建函数
+&lt;ul&gt;
+&lt;li&gt;type.go &lt;code&gt;RegisterConfig&lt;/code&gt;,  注册 &lt;code&gt;CreateObject&lt;/code&gt;创建;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dispatcher 负责从 inbound 接收数据发送到  outbound&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;创建配置类 &lt;code&gt;Config&lt;/code&gt;时会预置Feature&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;v2ray.go&lt;/code&gt;-&amp;gt; &lt;code&gt;Build()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;wip: config.go -&amp;gt; RegisterConfigLoader&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

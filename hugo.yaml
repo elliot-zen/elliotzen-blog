@@ -1,0 +1,12 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: "Elliot's Blog"
+theme: 'PaperMod'
+
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about... 
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/elliot-zen"
