@@ -2,6 +2,9 @@ baseURL: 'https://example.org/'
 languageCode: 'en-us'
 title: "Elliot's Blog"
 theme: 'PaperMod'
+caches:
+  images:
+    dir: ':cacheDir/images'
 
 params:
   homeInfoParams:
@@ -10,3 +13,4 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/elliot-zen"
+
